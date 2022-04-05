@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home"
+    >
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.nextstation.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_files"
+        android:name="com.example.nextstation.ui.Files.FilesFragment"
+        android:label="@string/menu_files"
+        tools:layout="@layout/files_fragment2" />
+    <fragment
+        android:id="@+id/nav_AutoReply"
+        android:name="com.example.nextstation.ui.AutoReply.AutoReplyFragment"
+        android:label="@string/menu_AutoReply"
+        tools:layout="@layout/auto_reply_fragment" />
+    <fragment
+        android:id="@+id/nav_Usage"
+        android:name="com.example.nextstation.ui.usage.usageFragment"
+        android:label="@string/menu_usage"
+        tools:layout="@layout/usage_fragment" />
+
+
+</navigation>

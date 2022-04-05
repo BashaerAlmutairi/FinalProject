@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.nextstation">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MoreCountries"
+            android:exported="false" />
+        <activity
+            android:name=".usapolitics"
+            android:exported="false" />
+        <activity
+            android:name=".USAGraphic"
+            android:exported="false" />
+        <activity
+            android:name=".graphicdesignerusa"
+            android:exported="false" />
+        <activity
+            android:name=".USAEngineering"
+            android:exported="false" />
+        <activity
+            android:name=".USAMedicine"
+            android:exported="false" />
+        <activity
+            android:name=".politicalscience"
+            android:exported="false"
+            android:parentActivityName=".Uk" />
+        <activity
+            android:name=".DentistryUK"
+            android:exported="false"
+            android:parentActivityName=".Uk" />
+        <activity
+            android:name=".EngineeringUK"
+            android:exported="false"
+            android:parentActivityName=".Uk" />
+        <activity
+            android:name=".PharmacyUK"
+            android:exported="false"
+            android:parentActivityName=".Uk" />
+        <activity
+            android:name=".MedicineUK"
+            android:exported="false"
+            android:parentActivityName=".Uk" />
+        <activity
+            android:name=".Uk"
+            android:exported="false"
+            android:parentActivityName=".WorkingActivity" />
+        <activity
+            android:name=".USAActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".WorkingActivity"
+            android:exported="false"
+            android:label="@string/title_activity_working"
+            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar.Bridge" />
+        <activity
+            android:name=".LogInActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

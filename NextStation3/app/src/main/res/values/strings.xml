@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NextStation</string>
+    <string name="title_activity_working">WorkingActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="hyperlink">visit this website for IELTS materials <a href="https://ieltstrainingonline.com/">ieltsTraining.com</a></string>
+    <string name="hyperlink2">visit this website for UKCAT materials <a href="https://students-residents.aamc.org/taking-mcat-exam/taking-mcat-exam">students-residents.com</a></string>
+    <string name="hyperlink3">visit this website for TOFEL example tests <a href="https://www.graduateshotline.com/sampletoefl3.html">graduateshotline.com</a></string>
+    <string name="hyperlink4"> visit this website which is for the MOHE <a href="https://www.mohe.edu.kw/site/">mohe.com</a></string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_AutoReply">AutoReply</string>
+    <string name="menu_files">Files</string>
+    <string name="menu_usage">usage</string>
+    <string name="menu_logout">logout</string>
+</resources>

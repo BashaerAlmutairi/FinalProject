@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/listlistuk"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/MedicineUK"
+        android:layout_width="152dp"
+        android:layout_height="41dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="70dp"
+        android:fontFamily="@font/akaya_telivigala"
+        android:gravity="center"
+        android:text="Medicine"
+        android:textColor="#000000" />
+
+    <Button
+        android:id="@+id/Detailsbtn1"
+        android:layout_width="149dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        android:text="details" />
+
+    <TextView
+        android:id="@+id/PharmacyUK"
+        android:layout_width="152dp"
+        android:layout_height="41dp"
+        android:layout_gravity="center"
+        android:fontFamily="@font/akaya_telivigala"
+        android:gravity="center"
+        android:text="Pharmacy"
+        android:textColor="#000000" />
+
+    <Button
+        android:id="@+id/Detailsbtn2"
+        android:layout_width="149dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        android:text="Details" />
+
+    <TextView
+        android:id="@+id/EngineeringUK"
+        android:layout_width="152dp"
+        android:layout_height="41dp"
+        android:layout_gravity="center"
+        android:fontFamily="@font/akaya_telivigala"
+        android:gravity="center"
+        android:text="Engineering"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/Detailsbtn3"
+        android:layout_width="149dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        android:text="Details" />
+
+    <TextView
+        android:id="@+id/DentistryUK"
+        android:layout_width="152dp"
+        android:layout_height="41dp"
+        android:layout_gravity="center"
+        android:fontFamily="@font/akaya_telivigala"
+        android:gravity="center"
+        android:text="Dentistry"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/Detailsbtn4"
+        android:layout_width="149dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        android:text="Details" />
+
+    <TextView
+        android:id="@+id/PoliticalsUK"
+        android:layout_width="152dp"
+        android:layout_height="41dp"
+        android:layout_gravity="center"
+        android:fontFamily="@font/akaya_telivigala"
+        android:gravity="center"
+        android:text="Nursing"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/Detailsbtn5"
+        android:layout_width="149dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        android:text="Details" />
+
+
+</LinearLayout>

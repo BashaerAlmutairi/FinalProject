@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NextStation3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NextStation3/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NextStation3/app/src/main/res/layout/activity_pactivity.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NextStation3/app/src/main/res/layout/activity_working.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NextStation3/app/src/main/res/layout/content_working.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NextStation3/app/src/main/res/layout/listflag.xml" value="0.4" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/drawable/ic_baseline_comment_24.xml" value="0.2555" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/drawable/side_nav_bar.xml" value="0.2165" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_dentistry_uk.xml" value="0.1875" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_egybt.xml" value="0.25" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_engineering_uk.xml" value="0.1875" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_graphicdesignerusa.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_medicine_uk.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_more_countries.xml" value="0.264" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_nursing_uk.xml" value="0.25" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_pactivity.xml" value="0.25" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_pharmacy_uk.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_quest.xml" value="0.25" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_uk.xml" value="0.264" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_ukactivity.xml" value="0.25" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_usaactivity.xml" value="0.2" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_usaengineering.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_usagraphic.xml" value="0.264" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_usamedicine.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_usapolitical.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_usapolitics.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/activity_working.xml" value="0.25" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/app_bar_working.xml" value="0.264" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/auto_reply_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/content_working.xml" value="0.2" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/files_fragment.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/files_fragment2.xml" value="0.21164021164021163" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/fragment_autoreply.xml" value="0.25" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/fragment_files.xml" value="0.25" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/list_ar.xml" value="0.176" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/listflag.xml" value="0.25" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/logout_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/nav_header_working.xml" value="0.4" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/omaiwamo.xml" value="0.2" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/omaiwamo2.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/politicalscience.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/uk_list.xml" value="0.264" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/usa_list.xml" value="0.1526268115942029" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/layout/usage_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/hp/Desktop/github/myproject/nextstation/NextStation3/app/src/main/res/menu/working.xml" value="0.17475728155339806" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

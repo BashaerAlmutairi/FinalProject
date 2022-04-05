@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/backgroundnextstation"
+    android:orientation="vertical"
+    tools:context=".SignUpActivity">
+
+
+    <ProgressBar
+        android:id="@+id/progressBar2"
+        android:layout_width="wrap_content"
+        android:layout_height="31dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="0dp" />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"
+        android:layout_alignTop="@+id/password"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="93dp"
+        android:layout_marginTop="-57dp"
+        android:layout_marginEnd="118dp"
+        android:background="#FFFFFF"
+        android:ems="10"
+        android:fontFamily="@font/akaya_telivigala"
+        android:gravity="center"
+        android:hint="email"
+        android:inputType="textEmailAddress"
+        android:textColor="#000000"
+        android:textColorHint="#3E3C3C" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="94dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginEnd="117dp"
+        android:background="#FFFFFF"
+        android:ems="10"
+        android:fontFamily="@font/akaya_telivigala"
+        android:gravity="center"
+        android:hint="password"
+        android:inputType="numberPassword"
+        android:textColorHint="#3E3C3C" />
+
+    <Button
+        android:id="@+id/SignUp"
+        android:layout_width="100dp"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="142dp"
+        android:layout_marginBottom="182dp"
+        android:gravity="center"
+        android:text="sign up" />
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar3"
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme" />
+
+</RelativeLayout>
